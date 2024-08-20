@@ -1,5 +1,5 @@
 # MaskPy was a joke...
-Just replace the `exec` by a `print` to get the code ... 🤡
+Just replace `exec` with `print` to get the code back. 🤡
 
 <ins>Before:</ins>
 ```py
